@@ -1,1 +1,1 @@
-打包好的软件在Realese
+打包好的软件在Releases。
